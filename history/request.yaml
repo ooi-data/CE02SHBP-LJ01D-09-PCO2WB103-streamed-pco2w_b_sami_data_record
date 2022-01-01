@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE02SHBP-LJ01D-09-PCO2WB103-streamed-pco2w_b_sami_data_record
 last_request: '2022-01-01T01:12:41.651034Z'
 response: https://raw.githubusercontent.com/ooi-data/CE02SHBP-LJ01D-09-PCO2WB103-streamed-pco2w_b_sami_data_record/main/history/response.json
-status: pending
+status: success
