@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHBP-LJ01D-09-PCO2WB103-streamed-pco2w_b_sami_data_record
 data_stream: CE02SHBP-LJ01D-09-PCO2WB103-streamed-pco2w_b_sami_data_record
 end_date: '2022-01-01T01:05:10.882Z'
-last_updated: '2022-01-22T04:31:08.216058Z'
+last_updated: '2022-01-22T04:34:39.749321'
 start_date: '2014-09-25T20:05:10.133Z'
-status: pending
+status: success
